@@ -3,4 +3,14 @@
 }
 body{
   background-color: ;
+  background-image: url(/preto.png);
+
+}
+header{
+  background-color: #0c395b;
+  padding: 40px;
+ 
+  color: white;
+
+
 }
